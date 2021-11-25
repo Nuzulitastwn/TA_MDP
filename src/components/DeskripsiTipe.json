@@ -1,0 +1,46 @@
+[
+  {
+    "tipe": "stratovulkan",
+    "desc": "Gunung api stratovulkan, ialah pegunungan (gunung berapi) yang tinggi dan mengerucut yang terdiri atas lava dan abu vulkanik yang mengeras. Bentuk gunung berapi itu secara khas curam di puncak dan landai di kaki karena aliran lava yang membentuk gunung berapi itu amat kental karena banyak mengandung silika, dan begitu dingin serta mengeras sebelum menyebar jauh."
+  },
+  {
+    "tipe": "kaldera",
+    "desc": "Kaldera adalah fitur vulkanik yang terbentuk dari jatuhnya tanah setelah letusan vulkanik. Contoh di Indonesia adalah danau Toba yang berawal dari letusan gunung purba. Kaldera sering tertukar dengan kawah vulkanik. Kata \"kaldera\" berasal dari bahasa Spanyol, yang artinya wajan."
+  },
+  {
+    "tipe": "supervulkan",
+    "desc": "Supervulkan, sering pula disebut gunung berapi super atau gunung berapi raksasa adalah vulkan atau gunung berapi yang mampu menghasilkan letusan vulkanis dengan ejekta lebih besar dari 1.000 kilometer kubik, yang lebih besar dari peristiwa vulkanis manapun dalam sejarah."
+  },
+  {
+    "tipe": "maar",
+    "desc": "Gunung api maar adalah gunung api yang memiliki kawah di bagian puncaknya. Kata maar sendiri berarti danau tektonik yang terjal. Danau ini terbentuk karena sifat erupsi yang eksplosif atau letusan yang kuat. Bahan-bahan yang keluar dari letusan tersebut berupa material padat atau eflata. Contoh gunung api maar yang berada di Indonesia di antaranya adalah Gunung Dieng, Gunung Gamalama, dan Gunung Lamongan."
+  },
+  {
+    "tipe": "kompleks",
+    "desc": "Gunung berapi kompleks adalah gunung berapi yang memiliki lebih dari satu ciri. Gunung berapi ini terbentuk dikarenakan perubahan dalam sifat letusannya atau letak saluran magma yang banyak dalam satu kawasan."
+  },
+  {
+    "tipe": "bawah laut",
+    "desc": "Gunung berapi bawah laut adalah ventilasi atau celah di Bumi permukaan di mana magma dapat meletus. Sejumlah besar gunung berapi bawah laut yang terletak di dekat daerah tektonik pergerakan lempeng, yang dikenal sebagai mid-ocean ridges. Gunung-gunung berapi di mid-ocean ridges sendiri diperkirakan mencapai 75% dari magma output di Bumi."
+  },
+  {
+    "tipe": "fumarol",
+    "desc": "Fumarol adalah lubang di dalam kerak bumi (maupun objek astronomi yang lain), yang sering terdapat di sekitar gunung berapi, yang mengeluarkan uap dan gas seperti karbon dioksida, sulfur dioksida, asam hidroklorik, dan hidrogen sulfida."
+  },
+  {
+    "tipe": "kubah lava",
+    "desc": "Kubah vulkanik adalah kira-kira melingkar gundukan berbentuk tonjolan yang dihasilkan dari lambat ekstrusi dari kental lava dari gunung berapi."
+  },
+  {
+    "tipe": "perisai",
+    "desc": "Gunung api perisai memiliki alas yang luas dan bentuk lereng yang sangat landai. Hal ini disebabkan karena sifat erupsinya yang berupa letusan efusif atau magma yang keluar dengan cepat, mengalir dan menyebar di sekitar area gunung api. Gunung api perisai ini terjadi karena memiliki lava yang cair dengan tekanan yang lemah, serta dapur magma yang dangkal. Gunung api perisai banyak ditemui di Hawai, Amerika Serikat, seperti Gunung Mauna Loa, Gunung Mauna Kea, dan Gunung Kilauea"
+  },
+  {
+    "tipe": "kerucut",
+    "desc": "Gunung api kerucut terjadi karena adanya letusan dan lelehan atau eksplosif dan efusif yang terjadi secara terus-menerus dan bergantian. Sehingga, gunung ini membentuk suatu suatu kerucut yang lerengnya berlapis-lapis akibat letusan-letusan sebelumnya. Contoh gunung api perisai atau strato di Indonesia di antaranya Gunung Kerinci, Gunung Pangrango, dan Gunung Merbabu."
+  },
+  {
+    "tipe": "kerucut bara",
+    "desc": "Kerucut bara adalah jenis gunung berapi yang terbentuk dari bara basal dan abu vulkanik piroklastik hasil suatu letusan eksplosif. Kerucut bara biasanya tampak seperti bukit kerucut curam dengan kepundan membulat atau silindris di tengahnya"
+  }
+]

@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Marmelad&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+  font-family: 'Marmelad', sans-serif;
+}
+
+:root {
+  --dark: #2d2424;
+  --mid: #5c3d2e;
+  --orange: #b85c38;
+  --light: #e0c097;
+}
+
+.app {
+  background: var(--dark);
+  height: 100vh;
+  padding: 5rem 1rem;
+  overflow: auto;
+}
+
+h1,
+h2 {
+  color: var(--light);
+}
+
+header {
+  background: var(--mid);
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 0.75rem 0.2rem;
+}
+
+.title {
+  text-align: center;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.active {
+  color: var(--light);
+}
+
+.bottom-nav {
+  background: var(--mid);
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  width: 100%;
+  padding: 1rem 0.2rem;
+}
+
+.nav-link {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-link:hover {
+  color: var(--light);
+}
+
+.nama-gunung,
+.nama-tipe {
+  color: white;
+}
+
+.gunung-content,
+.gunung-detail,
+.tipe-content,
+.tipe-detail {
+  /* border: 1px solid red; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 1rem auto;
+  max-width: 540px;
+}
+
+.gunung-content div,
+.tipe-content div {
+  border: 1px solid var(--mid);
+  width: 150px;
+  padding: 1rem;
+  text-align: center;
+}
+
+.gunung-detail {
+  border: 1px solid var(--mid);
+  padding: 1rem 0.5rem;
+}
+
+.gunung-detail p {
+  color: white;
+  margin-bottom: 0.5rem;
+}
+
+.tipe-detail p,
+.about p {
+  color: white;
+  text-align: justify;
+}
+
+.about {
+  max-width: 540px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin: 0 auto;
+  /* align-items: center; */
+}
+
+.about img {
+  width: 250px;
+  align-self: center;
+}
